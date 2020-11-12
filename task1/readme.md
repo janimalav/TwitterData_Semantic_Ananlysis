@@ -1,1 +1,1 @@
-To fetch the data from tweeter, both search and stream data one need to **Execute search_listner.py** only
+To fetch the data from twitter, both search and stream data one need to **Execute search_listner.py** only
